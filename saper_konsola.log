@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\adria\source\repos\saper_konsola\Źródło.cpp(66,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  saper_konsola.vcxproj -> C:\Users\adria\source\repos\saper_konsola\Debug\saper_konsola.exe
